@@ -1,0 +1,5 @@
+flask
+goose3
+requests
+jsonify
+openai
